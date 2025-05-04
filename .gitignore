@@ -1,1 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
 env/
+# PyCharm
+.idea/
+!.idea/codeStyles/         # optional: if you want to share code formatting rules
+*.iml
