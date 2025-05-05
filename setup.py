@@ -18,7 +18,7 @@ setup(
     name = 'SmallMLProject',
     version = '0.0.1',
     author = 'Anand',
-    author_email = 'anand.saini@gmail.com',
+    author_email = 'anand.saini024@gmail.com',
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt')
 )
